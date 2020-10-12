@@ -19,4 +19,4 @@ Tested Speaker Audio **[Link](https://visionbrain.github.io/voicecloning.github.
 
 ### Made By-
 * **[VisionBrain](https://visionbrain.org) & Team**
-* **Project Lead -[Aryan Karn](https://github.com/Aryan05)**
+* **Project Lead - [Aryan Karn](https://github.com/Aryan05)**

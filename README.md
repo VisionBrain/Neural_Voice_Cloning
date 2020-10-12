@@ -1,5 +1,6 @@
 # Neural_Voice_Cloning
 1. Baidu Research **[Link](https://arxiv.org/pdf/1802.06006.pdf)**
+2. Tested Speaker Audio **[Link](https://visionbrain.github.io/voicecloning.github.io/)** 
 
 ### Abstract :
 * **Voice cloning is a highly desired feature for personalized speech interfaces. We introduce a neural voice cloning system that learns to synthesize a person’s voice from only a few audio samples. System that learns to synthesize a person’s voice from only a few audio samples. We study two approaches: speaker adaptation and speaker encoding.**
@@ -11,11 +12,11 @@
 </p>
 
 ### Audio :
-Testes Speaker Audio **[Link](https://visionbrain.github.io/voicecloning.github.io/)** 
+Tested Speaker Audio **[Link](https://visionbrain.github.io/voicecloning.github.io/)** 
 * But don't expect anything right.
 * I won't make an official complaint.
 * They make a selective perception process.
 
 ### Made By-
-* **VisionBrain & Team**
-* **Project Lead - Aryan Karn**
+* **[VisionBrain](https://visionbrain.org) & Team**
+* **Project Lead -[Aryan Karn](https://github.com/Aryan05)**

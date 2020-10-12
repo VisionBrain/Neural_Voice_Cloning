@@ -9,3 +9,8 @@ directly infer a new speaker embedding, which will be applied to a multi-speaker
 generative model. In terms of naturalness of the speech and similarity to the original
 speaker, both approaches can achieve good performance, even with a few cloning
 audios. An opensource implementation of Baidu Research Paper **[Link](https://arxiv.org/pdf/1802.06006.pdf)**
+
+## Steps
+<p align="center">
+    <img src="Img/Workflow.png" alt="Image" width="500" height="300"/>
+</p>

@@ -12,4 +12,10 @@
 
 ### Audio :
 Testes Speaker Audio **[Link](https://visionbrain.github.io/voicecloning.github.io/)** 
+* But don't expect anything right.
+* I won't make an official complaint.
+* They make a selective perception process.
 
+### Made By-
+* **Vision Brain & Team**
+* **Lead - Aryan Karn**

@@ -12,5 +12,5 @@ audios. An opensource implementation of Baidu Research Paper **[Link](https://ar
 
 ## Steps
 <p align="center">
-    <img src="Img/Workflow.png" alt="Image" width="1000" height="300"/>
+    <img src="Img/Workflow.png" alt="Image" width="1000" height="1000"/>
 </p>

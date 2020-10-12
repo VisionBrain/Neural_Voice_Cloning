@@ -1,4 +1,6 @@
 # Neural_Voice_Cloning
+An opensource implementation of Baidu Research Paper **[Link](https://arxiv.org/pdf/1802.06006.pdf)**
+
 ### ABSTRACT
 Voice cloning is a highly desired feature for personalized speech interfaces. We
 introduce a neural voice cloning system that learns to synthesize a person’s voice
@@ -8,7 +10,7 @@ generative model. Speaker encoding is based on training a separate model to
 directly infer a new speaker embedding, which will be applied to a multi-speaker
 generative model. In terms of naturalness of the speech and similarity to the original
 speaker, both approaches can achieve good performance, even with a few cloning
-audios. An opensource implementation of Baidu Research Paper **[Link](https://arxiv.org/pdf/1802.06006.pdf)**
+audios.
 
 ## Steps
 <p align="center">

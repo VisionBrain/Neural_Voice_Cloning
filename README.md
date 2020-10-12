@@ -17,5 +17,5 @@ Testes Speaker Audio **[Link](https://visionbrain.github.io/voicecloning.github.
 * They make a selective perception process.
 
 ### Made By-
-* **Vision Brain & Team**
-* **Lead - Aryan Karn**
+* **VisionBrain & Team**
+* **Project Lead - Aryan Karn**
